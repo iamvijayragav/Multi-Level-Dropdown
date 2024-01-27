@@ -9,7 +9,6 @@ export const MenuItems = [
         title: "About Us",
         path: "/about-us",
     }, {
-        
         id: 3,
         title: "Services",
         path: "/services",
